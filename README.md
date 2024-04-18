@@ -19,6 +19,12 @@ There is no story just an unstoppable desire to create. If you want more informa
           
 #
 
+### 📊 Github Stats
+
+![stkvs' GitHub stats](https://github-readme-stats.vercel.app/api?username=stkvs&show_icons=true&theme=ambient_gradient)
+
+#
+
 ### 📈 Updates & Contact
 
 <a href="https://instagram.com/mstkvs" target="_blank">
@@ -30,3 +36,9 @@ There is no story just an unstoppable desire to create. If you want more informa
 <br/>
 
 #
+
+<details>
+  <summary>🔍 psst.</summary>
+
+  [click me](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+</details>
