@@ -1,16 +1,14 @@
-### Hi there 👋
+# 👋 Mantas Statkevicius
 
-<!--
-**stkvs/stkvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Artistic Creator (Developer/Designer/Artisan)`**
+Hey there, I am a novice Designer & Developer. Originally from Kaunas, Lithuania 🇱🇹 but currently living in England 🇬🇧. <br/>
+There is no story just an unstoppable desire to create. If you want more information take a look at my [Personal Website](https://stkvs.com) 
+---
 
-Here are some ideas to get you started:
+### Languges and Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+### Updates & Contact
+
+#
