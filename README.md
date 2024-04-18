@@ -32,7 +32,7 @@ There is no story just an unstoppable desire to create. If you want more informa
 <a href="https://instagram.com/mstkvs" target="_blank">
           <img alt="Instagram" width="30px" align="left" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png?raw=true" />
 </a>
-<a href="https://twitter.com/mstkvs" target="_blank">
+<a href="https://twitter.com/MantasStkvs" target="_blank">
           <img alt="Twitter" width="30px" align="left" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png?raw=true" />
 </a>
 <br/>
