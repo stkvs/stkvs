@@ -1,4 +1,4 @@
-# 👋 Mantas Statkevicius
+# <img width="32px" src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/gifs/wave.gif" /> Mantas Statkevicius
 
 **`Artistic Creator (Developer/Designer/Artisan)`**
 
@@ -7,7 +7,7 @@ There is no story just an unstoppable desire to create. If you want more informa
 
 ---
 
-### Languges and Frameworks
+### 🔧 Languges and Frameworks
 
 <img alt="JavaScript" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img alt="Python" width="30px" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -19,6 +19,14 @@ There is no story just an unstoppable desire to create. If you want more informa
           
 #
 
-### Updates & Contact
+### 📈 Updates & Contact
+
+<a href="https://instagram.com/mstkvs" target="_blank">
+          <img alt="Instagram" width="30px" align="left" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png?raw=true" />
+</a>
+<a href="https://twitter.com/mstkvs" target="_blank">
+          <img alt="Twitter" width="30px" align="left" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png?raw=true" />
+</a>
+<br/>
 
 #
